@@ -2,16 +2,16 @@ baseurl: /
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: 以下意味 | kitekira's blog
+title: 以下意味 | VividPlankton's blog
 
 languages:
     en:
         languageName: English
-        title: IKAIMI | kitekira's blog
+        title: IKAIMI | VividPlankton's blog
         weight: 2
     zh-cn:
         languageName: 中文
-        title: 以下意味 | kitekira's blog 
+        title: 以下意味 | VividPlankton's blog 
         weight: 1
 
 # Change it to your Disqus shortname before using
@@ -49,7 +49,7 @@ params:
 
     sidebar:
         # emoji: 🍥
-        subtitle: kitekira的个人博客，关于技术、艺术以及约束
+        subtitle: VividPlankton的个人博客，关于技术、艺术以及约束
         avatar:
             enabled: true
             local: true
