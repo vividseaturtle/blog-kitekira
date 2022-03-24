@@ -1,6 +1,6 @@
 ---
 title: "来自雨的约定"
-description: 在雨幕中入睡，在阳光中醒来，这无疑是一种背叛
+description: 在雨幕中入睡，阳光中醒来，这无疑是一种背叛
 date: 2022-03-12T13:56:50+08:00
 slug: the-promise-of-rain
 categories:
