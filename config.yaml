@@ -2,16 +2,16 @@ baseurl: /
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: 以下意味 | VividPlankton's blog
+title: 以下意味 | vividplankton's blog
 
 languages:
     en:
         languageName: English
-        title: IKAIMI | VividPlankton's blog
+        title: IKAIMI | vividplankton's blog
         weight: 2
     zh-cn:
         languageName: 中文
-        title: 以下意味 | VividPlankton's blog 
+        title: 以下意味 | vividplankton's blog 
         weight: 1
 
 # Change it to your Disqus shortname before using
