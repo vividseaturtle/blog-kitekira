@@ -4,7 +4,7 @@ description: 我们是否诞生于熊熊烈焰，并终将再次自襁褓涅槃�
 date: 2021-01-27T13:56:50+08:00
 slug: nexus-translation
 categories:
-    - 译文
+    - translation
 ---
 
 作：澤野弘之 (Hiroyuki Sawano)  

@@ -4,7 +4,7 @@ description: 这个场所在何种意义上存在，又可能走向哪里？
 date: 2021-01-18
 slug: why-start-blogging
 categories:
-    - 随笔
+    - essay
 ---
 
 以这篇文章作为开端的“以下意味”被构建之时，于我来说，它“所在何处”无疑甚于它的“所在”更成为一个重要的命题。  

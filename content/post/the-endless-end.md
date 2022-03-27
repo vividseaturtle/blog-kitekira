@@ -1,10 +1,10 @@
 ---
 title: "从未终结的终结"
 description: 让我们不要再那般轻易地宣告某物的终结
-date: 2022-02-11T13:56:50+08:00
+date: 2021-02-11T13:56:50+08:00
 slug: the-endless-end
 categories: 
-    - 愚痴
+    - guti
 ---
 
 终结是因宣告而到来的。

@@ -1,10 +1,10 @@
 ---
 title: "站在十字路口能看见大海吗"
 description: 驻足于瓦砾尽头的交叉口所看见的一切
-date: 2022-03-12T13:56:50+08:00
+date: 2021-03-12T13:56:50+08:00
 slug: can-you-see-the-sea-when-stand-at-the-intersection
 categories:
-    - 随笔
+    - essay
 ---
 
 住所附近的城中村要拆迁了，   

@@ -4,7 +4,7 @@ description: 无法摆脱的梦境，或许因为太阳已经厌恶了我
 date: 2022-03-17T13:56:50+08:00
 slug: prone-paddling-championship
 categories:
-    - 随笔
+    - essay
 ---
 
 “这搞不好是个梦。最近精神状态不好，有点分不清梦和现实了。”
