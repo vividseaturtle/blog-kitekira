@@ -4,7 +4,7 @@ description: ""
 slug: "译文"
 menu:
     main:
-        weight: -90
+        weight: -20
         params: 
             icon: archives
 ---

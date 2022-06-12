@@ -1,10 +1,10 @@
 ---
-title: "愚痴"
+title: "译文"
 description: ""
-slug: "愚痴"
+slug: "译文"
 menu:
     main:
-        weight: -10
+        weight: -90
         params: 
             icon: archives
 ---

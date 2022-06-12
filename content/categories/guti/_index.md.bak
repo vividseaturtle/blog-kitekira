@@ -4,7 +4,7 @@ description: ""
 slug: "愚痴"
 menu:
     main:
-        weight: -10
+        weight: -70
         params: 
             icon: archives
 ---
