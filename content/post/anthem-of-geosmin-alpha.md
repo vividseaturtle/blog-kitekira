@@ -1,11 +1,13 @@
 ---
-title: "汲澳斯溟的赞美诗 CH.1"
+title: "汲澳斯溟的赞美诗 | α"
 description: 
-date: 2022-06-12T12:49:50+08:00
-slug: story-of-geosmin-ch-1
+date: 2000-01-01T00:00:00+08:00
+slug: anthem-of-geosmin-alpha
 categories:
     - story
 ---
+
+## Chapter. 1 梦境
 
 梦境的到来毫无预兆。
 
